@@ -1,4 +1,4 @@
-# Hello, I'm Crisztina Zudor! 👋
+# Hello, I'm Crisztina! 👋
 
 I'm currently pursuing my Master's degree in Artificial Intelligence and Signal Processing in Electronics and Telecommunications at the Technical University of Cluj-Napoca, Faculty of Electronics, Telecommunications and Information Technology. I'm passionate about using technology to solve real-world problems and am always eager to learn more and enhance my skills.
 
@@ -15,8 +15,8 @@ I'm currently pursuing my Master's degree in Artificial Intelligence and Signal 
 - Exploring more about the potential of prompt engineering in AI.
 
 ## 👀 Interests
-Beyond the technical, I’m someone with passions and personality — and just enough existential spice to keep things interesting:
-🌀 Powered by anime and manga: because great ideas don’t always wear suits, they sometimes wear capes and have tragic backstories.
-🧠 A philosopher at heart: constantly wondering if free will is just bad UX, and whether I clicked “accept all cookies” on existence by mistake.
-🐾 Animal lover: I fall in love at least once a day with a dog I’ll never see again.
-🎧 Music is my emotional Wi-Fi
+Beyond the technical, I’m someone with passions and personality — and just enough existential spice to keep things interesting:<br>
+🌀 Powered by anime and manga: because great ideas don’t always wear suits, they sometimes wear capes and have tragic backstories.<br>
+🧠 A philosopher at heart: constantly wondering if free will is just bad UX, and whether I clicked “accept all cookies” on existence by mistake.<br>
+🐾 Animal lover: I fall in love at least once a day with a dog I’ll never see again.<br>
+🎧 Music is my emotional Wi-Fi<br>
