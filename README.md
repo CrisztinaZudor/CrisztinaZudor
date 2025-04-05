@@ -16,7 +16,12 @@ I'm currently pursuing my Master's degree in Artificial Intelligence and Signal 
 
 ## 👀 Interests
 Beyond the technical, I’m someone with passions and personality — and just enough existential spice to keep things interesting:<br>
-🌀 Powered by anime and manga: because great ideas don’t always wear suits, they sometimes wear capes and have tragic backstories.<br>
-🧠 A philosopher at heart: constantly wondering if free will is just bad UX, and whether I clicked “accept all cookies” on existence by mistake.<br>
-🐾 Animal lover: I fall in love at least once a day with a dog I’ll never see again.<br>
+<br>
 🎧 Music is my emotional Wi-Fi<br>
+<br>
+🌀 Powered by anime and manga: because great ideas don’t always wear suits, they sometimes wear capes and have tragic backstories.<br>
+<br>
+🧠 A philosopher at heart: constantly wondering if free will is just bad UX, and whether I clicked “accept all cookies” on existence by mistake.<br>
+<br>
+🐾 Animal lover: I fall in love at least once a day with a dog I’ll never see again.<br>
+
